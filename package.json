@@ -1,0 +1,11 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jmarquis/notebook.git",
+  "author": "Jeremy Marquis <jeremy@jeremymarquis.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
